@@ -1,8 +1,2 @@
-<div id="badges">
-  <a href="https://www.youtube.com/channel/UCrwdU7Au9-OSxdOKc6FdPkQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://github.com/kian-g">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</div>
+<h2 align="center">Profile Views :<br></h2>
+<p align="center"><img src="https://profile-counter.glitch.me/kian-g/count.svg" /></P>
